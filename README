@@ -1,0 +1,7 @@
+SixArm.com » jQuery » jquery.ellipsis plugin 
+
+Truncate text that is too long to fit within its parent element,
+and add an ellipsis to the end.
+
+Example:
+  $('.foo').ellipsis();
